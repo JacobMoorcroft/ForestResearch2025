@@ -1,19 +1,13 @@
 
-All data used during this personal practice of statistical analysis and data visualisations has
-been retrieved via public access from the Forest Research Commission. Any statements made about
-patterns, or seeming conclusions drawn from their relation to eachother, occur outside of any
-approval given by the Forest Research Commission or its subsidiaries. Findings are not additive to 
-any claims made within the conclusions of the original publication, and are done purely for private 
-experiment to hone and practice various skills in analysis and visualisation.
+All data used during this personal practice of data visualisation has been retrieved via public access 
+from the Forest Research Commission. Any comments on patterns or trends in the data are purely rational,
+and are not commentary on the Forest Research Commission or its subsidiaries. Findings are not additive to 
+statements made within the original publication.
 
-My intention is to perform various different forms of analysis and visualisation with no political
-preconceptions and minimal (if at all) trimming of the data to be amenable to intended experiments.
-
-This page is not representative of any legitimate study and is instead purely exercise. 
+These visualisations follow no directional preconceptions and have included minimal data cleaning. The 
+project and its respective webpage are not representative of any legitimate study. 
 
 Thank-you for reading this statement.
 
-:)
-
 Data Source: https://www.forestresearch.gov.uk/tools-and-resources/statistics/time-series/
-File Title: 'Woodland area, UK, 1998 to 2024'
+File Title: 'Woodland area, UK, 1998 to 2025'
